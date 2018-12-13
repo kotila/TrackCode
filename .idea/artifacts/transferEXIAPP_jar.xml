@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="transferEXIAPP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/transferEXIAPP_jar</output-path>
+    <root id="archive" name="transferEXIAPP.jar">
+      <element id="module-output" name="transferEXIAPP" />
+      <element id="extracted-dir" path="D:/IDEACODE/LIB/com.springsource.org.dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEACODE/LIB/pdfbox-1.8.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEACODE/LIB/fontbox-1.8.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEACODE/LIB/poi-3.10-FINAL.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEACODE/LIB/com.springsource.org.apache.commons.logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/IDEACODE/LIB/poi-ooxml-3.10-FINAL.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
